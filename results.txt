@@ -1,0 +1,5 @@
+Model		Training Accuracy	Validation Accuracy
+CNN1		0.98		0.90
+CNN2		0.97		0.80
+VGG16		0.93		0.71
+InceptionV3	
